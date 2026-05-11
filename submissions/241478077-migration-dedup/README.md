@@ -19,8 +19,7 @@
 
 ## Linkler
 
-- **Expo QR Kodu:** [QR Kodu Linki Buraya Gelecek]
-- **Demo Videosu (60 sn):** [Video Linki Buraya Gelecek]
+
 - **APK Dosyası:** [app-release.apk](./app-release.apk)
 
 ---
