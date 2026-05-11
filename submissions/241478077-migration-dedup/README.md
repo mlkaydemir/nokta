@@ -10,6 +10,7 @@
 2.  **UI Tercihi:** Kullanıcı dostu ve hızlı bir prototip için `react-native-paper` kütüphanesi tercih edildi.
 3.  **AI Yaklaşımı:** API anahtarı olmadığı için, metin benzerliği ve anahtar kelime analizi yapan kural tabanlı bir "Mock AI" motoru geliştirildi.
 4.  **Veri Yapısı:** Fikirler, "Idea Card" formatında modernize edildi.
+5.  **Bonus (+10 Çılgınlık):** Uygulamaya "Uzman Desteği" (Human-in-the-Loop) özelliği eklendi. Kullanıcılar fikir kartlarının detaylarında tıkanıklık yaşarsa gerçek zamanlı uzman oturumu (mock) başlatabiliyor. `expert/types.ts` veri sözleşmeleri uygulandı.
 
 ## Kurulum ve Çalıştırma
 
@@ -19,7 +20,8 @@
 
 ## Linkler
 
-
+- **Expo QR Kodu:** [QR Kodu Linki Buraya Gelecek]
+- **Demo Videosu (60 sn):** [Video Linki Buraya Gelecek]
 - **APK Dosyası:** [app-release.apk](./app-release.apk)
 
 ---
